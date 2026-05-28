@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vatikapleasure.vercel.app/sitemap.xml
